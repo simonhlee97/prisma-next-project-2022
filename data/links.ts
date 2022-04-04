@@ -1,3 +1,4 @@
+// dummy data
 export const links = [
   {
     category: "Open Source",
